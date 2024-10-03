@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nderim1" alt="nderim1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nderimtop" target="blank"><img src="https://img.shields.io/twitter/follow/nderimtop?logo=twitter&style=for-the-badge" alt="nderimtop" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nderim_top" target="blank"><img src="https://img.shields.io/twitter/follow/nderim_top?logo=twitter&style=for-the-badge" alt="nderim_top" /></a> </p>
 
 - 🔭 I’m currently working on **drawcharts.xyz**
 
